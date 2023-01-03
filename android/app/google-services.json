@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067885596532",
+    "project_id": "signup-login-5050c",
+    "storage_bucket": "signup-login-5050c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067885596532:android:4ad76ef33b81b59c54a621",
+        "android_client_info": {
+          "package_name": "com.example.signup_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067885596532-3h1fmdbr55eue93ppmhomr193aj80rht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCulij5hDnTC28MJbBAW5XyWeQfvj1pkis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067885596532-3h1fmdbr55eue93ppmhomr193aj80rht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
